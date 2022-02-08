@@ -8,8 +8,6 @@ Le corpus doit être pré-traité lors de la première utilisation grâce à la 
 
 Il nécessite de synchroniser un compte Google Drive.
 
-La détection de mise en page utilise l'outil Layout Parser décrit sur https://github.com/Layout-Parser/layout-parser
-
 Ce carnet utilise majoritairement la bibliothèque de TAL Spacy (https://spacy.io/)
 
 ## Utilisation
